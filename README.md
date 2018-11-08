@@ -1,2 +1,2 @@
 # bla
-sono in pro1
+questo e pro2 figlio di pro1
